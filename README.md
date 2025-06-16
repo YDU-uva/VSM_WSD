@@ -1,6 +1,6 @@
 # Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation
 
-This is the official implementation of the paper "Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation".
+This is the official implementation of the paper "Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation". https://arxiv.org/pdf/2106.02960
 
 
 
